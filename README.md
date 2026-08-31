@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225220061
+# Name:Mahith M
+# Date:31-09-2026
 
 
 # AIM:
@@ -23,6 +23,8 @@ To develop the Course Reservation and Exam Registration System using Star UML
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+
+<img width="490" height="406" alt="image" src="https://github.com/user-attachments/assets/238f17da-8d1c-48a8-a9d9-645f2a76cf15" />
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -47,6 +49,8 @@ Specifying the context and requirements of a system
 
 # CLASS DIAGRAM
 
+<img width="726" height="555" alt="image" src="https://github.com/user-attachments/assets/744490da-1655-44c3-a7b3-18a9d471149a" />
+
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
 among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
@@ -63,6 +67,8 @@ Create detailed charts that…
 
 # COMMUNICTION DIAGRAM:
 
+<img width="662" height="354" alt="image" src="https://github.com/user-attachments/assets/78a2b2d1-5dc3-43f0-82c5-903c1cddf517" />
+
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
@@ -72,6 +78,8 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 # PACKAGE DIAGRAM:
 
+<img width="558" height="385" alt="image" src="https://github.com/user-attachments/assets/308cdc00-a10a-4401-92b6-d8afee20755f" />
+
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
 organization of the layered architecture within any UML classifier, such as a software system.
@@ -79,13 +87,9 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
-
-
-
-
-
 # ACTIVITY DIAGRAM:
+
+<img width="415" height="517" alt="image" src="https://github.com/user-attachments/assets/f1d932a5-cfc0-40f6-a775-ba19b8b034ca" />
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
@@ -102,6 +106,8 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
+
+<img width="571" height="521" alt="image" src="https://github.com/user-attachments/assets/8b206964-1414-4706-8d37-73e717923756" />
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
