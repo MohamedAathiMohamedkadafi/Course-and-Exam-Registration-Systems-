@@ -1,7 +1,7 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:212225220061
-# Name:Mahith M
+# Reg No:
+# Name:
 # Date:31-09-2026
 
 
